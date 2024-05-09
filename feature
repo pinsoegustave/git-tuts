@@ -1,5 +1,1 @@
-commit 1
-
-I am adding the second commit tuh
-
-Added this to cause a conflict
+Different message in the help of the learning conflicts
